@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/stratify-react/static/css/main.81a94897.css",
+    "main.js": "/stratify-react/static/js/main.03015ca7.js",
+    "static/media/laptop.jpeg": "/stratify-react/static/media/laptop.45ddf500e572fb2f1d35.jpeg",
+    "static/media/single.png": "/stratify-react/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/stratify-react/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/stratify-react/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/stratify-react/index.html",
+    "main.81a94897.css.map": "/stratify-react/static/css/main.81a94897.css.map",
+    "main.03015ca7.js.map": "/stratify-react/static/js/main.03015ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a94897.css",
+    "static/js/main.03015ca7.js"
+  ]
+}
